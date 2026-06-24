@@ -1,15 +1,15 @@
 # Hi, I'm Guillaume 👋
 
-> Senior software architect & full-stack developer — building secure, AI-native software from France 🇫🇷
+> Senior software architect & full-stack developer, building secure, AI-native software from France 🇫🇷
 
-I've spent 10+ years shipping SaaS products, AI features, and secure web apps —
+I've spent 10+ years shipping SaaS products, AI features, and secure web apps
 across 120+ projects for 50+ clients. I care about code that holds up under
 load, code that holds up to audit, and tools small enough to actually understand.
 
 ### 🔭 Currently
 
-Building **[polaris](https://github.com/girard-g/polaris)** — a lightweight RAG
-over MCP for coding agents — alongside other Rust-based AI tooling and developer
+Building **[polaris](https://github.com/girard-g/polaris)** a lightweight RAG
+over MCP for coding agents, alongside other Rust-based AI tooling and developer
 infrastructure. Small, sharp tools that do one thing well.
 
 ### 🛠️ Stack
@@ -38,28 +38,28 @@ infrastructure. Small, sharp tools that do one thing well.
 
 ### 📦 Featured projects
 
-**[polaris](https://github.com/girard-g/polaris)** — Lightweight RAG system for
+**[polaris](https://github.com/girard-g/polaris)** Lightweight RAG system for
 coding agents. Index your project docs, search them semantically, serve results
 over MCP. Single-binary deployment. *(Rust)*
 
-**[md2pdf](https://github.com/girard-g/md2pdf)** — A markdown-to-PDF library
+**[md2pdf](https://github.com/girard-g/md2pdf)** A markdown-to-PDF library
 that's actually correct. *(Rust)*
 
 ### 💼 Available for freelance
 
 I take on a limited number of client engagements:
 
-- **Full-stack development** — SaaS products, AI-powered features, secure web apps
-- **Frontend architecture** — design systems, performance, framework migrations
-- **Technical consulting & code audits** — second opinion, security review, scaling advice
-- **Mentoring** — for individual engineers and small teams
+- **Full-stack development**  SaaS products, AI-powered features, secure web apps
+- **Frontend architecture**  design systems, performance, framework migrations
+- **Technical consulting & code audits**  second opinion, security review, scaling advice
+- **Mentoring**  for individual engineers and small teams
 
-Typical reply within 24h. → **[guillaumegirard.xyz](https://guillaumegirard.xyz)**
+Typical reply within 24h. -> **[guillaumegirard.xyz](https://guillaumegirard.xyz)**
 
 ### 🥋 Off-keyboard
 
 When I'm not shipping code, I train **Filipino Boxing and FMA** (Filipino
-Martial Arts). Distance, timing, and flow — turns out it's not that different
+Martial Arts). Distance, timing, and flow, turns out it's not that different
 from systems design.
 
 ### 📫 Get in touch
